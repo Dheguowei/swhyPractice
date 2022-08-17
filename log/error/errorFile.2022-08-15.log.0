@@ -1,5 +1,6 @@
-2022-08-17 14:52:10,485 ERROR  [restartedMain] (PlusConfig.java:62)- mpp.entityBasePath is null skip scan result map
-2022-08-17 14:52:26,339 ERROR  [scheduling-1] (TaskUtils.java:95)- Unexpected error occurred in scheduled task
+2022-08-15 09:15:18,882 ERROR  [restartedMain] (PlusConfig.java:62)- mpp.entityBasePath is null skip scan result map
+2022-08-15 09:38:18,180 ERROR  [restartedMain] (PlusConfig.java:62)- mpp.entityBasePath is null skip scan result map
+2022-08-15 10:27:03,899 ERROR  [scheduling-1] (TaskUtils.java:95)- Unexpected error occurred in scheduled task
 java.io.InterruptedIOException: null
 	at java.base/java.io.PipedInputStream.read(PipedInputStream.java:328)
 	at java.base/java.io.PipedInputStream.read(PipedInputStream.java:377)
@@ -13,9 +14,8 @@ java.io.InterruptedIOException: null
 	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:326)
 	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:392)
 	at com.swhy.swhypractice.utils.SSHLinuxUtils.exeCommand(SSHLinuxUtils.java:58)
-	at com.swhy.swhypractice.service.ScheduleServices.pushProgressMessage(ScheduleServices.java:66)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at com.swhy.swhypractice.service.ScheduleServices.pushHostMessage(ScheduleServices.java:108)
+	at jdk.internal.reflect.GeneratedMethodAccessor87.invoke(Unknown Source)
 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
 	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
 	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
