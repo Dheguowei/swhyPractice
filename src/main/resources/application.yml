@@ -1,0 +1,24 @@
+#swagger 配置
+swagger:
+  enabled: true
+  title: 测试接口
+  description: 描述测试接口
+  version: 1.0.0
+  contact:
+    name: GW-He
+    url:
+    email: 1277348983@qq.com
+  package: com.program.test.myTest
+  base-path: /**
+  exclude-path: /error, /ops/**
+
+#lombok 日志文件配置
+
+logging:
+  config: classpath:config/log/logback.xml
+
+#读取日志路径
+logPath: F:\swhyPractice\log\file\fileLog.log
+sleepInterval: 1000
+
+

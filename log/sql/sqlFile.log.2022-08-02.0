@@ -1,0 +1,1512 @@
+2022-08-02 10:09:24,206 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,pid FROM remote_services
+2022-08-02 10:09:24,230 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:09:24,247 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 7
+2022-08-02 10:09:24,264 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:09:24,265 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:09:24,266 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:09:25,462 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:09:25,466 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:09:25,467 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:09:26,485 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:09:26,485 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:09:26,487 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:09:27,552 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:09:27,553 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:09:27,556 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:09:28,615 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:09:28,615 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:09:28,616 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:09:29,670 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:09:29,670 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:09:29,671 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:09:30,696 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:09:30,696 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:09:30,697 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:09:31,758 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop
+2022-08-02 10:09:31,759 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:09:31,759 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:09:34,081 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,pid FROM remote_services
+2022-08-02 10:09:34,082 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:09:34,083 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 7
+2022-08-02 10:09:34,084 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:09:34,084 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:09:34,085 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:09:35,112 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:09:35,112 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:09:35,113 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:09:36,176 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:09:36,176 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:09:36,177 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:09:37,200 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:09:37,201 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:09:37,202 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:09:38,236 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:09:38,237 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:09:38,239 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:09:39,287 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:09:39,287 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:09:39,289 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:09:40,376 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:09:40,376 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:09:40,377 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:09:41,475 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop
+2022-08-02 10:09:41,475 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:09:41,477 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:09:44,113 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,pid FROM remote_services
+2022-08-02 10:09:44,114 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:09:44,116 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 7
+2022-08-02 10:09:44,116 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:09:44,117 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:09:44,118 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:09:45,692 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:09:45,693 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:09:45,694 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:09:46,824 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:09:46,825 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:09:46,826 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:09:47,864 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:09:47,864 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:09:47,865 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:09:48,879 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:09:48,879 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:09:48,880 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:09:49,969 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:09:49,969 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:09:49,971 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:09:51,108 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:09:51,108 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:09:51,109 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:09:52,135 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop
+2022-08-02 10:09:52,136 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:09:52,137 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:09:54,381 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,pid FROM remote_services
+2022-08-02 10:09:54,382 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:09:54,383 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 7
+2022-08-02 10:09:54,383 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:09:54,383 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:09:54,384 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:09:55,403 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:09:55,403 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:09:55,404 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:09:56,439 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:09:56,439 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:09:56,440 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:09:57,472 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:09:57,473 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:09:57,474 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:09:58,494 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:09:58,494 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:09:58,495 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:09:59,499 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:09:59,500 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:09:59,501 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:10:00,493 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:10:00,494 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:10:00,495 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:10:01,533 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop
+2022-08-02 10:10:01,534 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:10:01,534 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:10:03,741 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,pid FROM remote_services
+2022-08-02 10:10:03,742 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:10:03,743 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 7
+2022-08-02 10:10:03,743 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:10:03,743 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:10:03,744 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:10:04,751 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:10:04,752 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:10:04,752 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:10:05,770 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:10:05,770 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:10:05,771 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:10:06,803 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:10:06,803 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:10:06,804 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:10:07,847 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:10:07,847 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:10:07,848 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:10:08,850 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:10:08,850 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:10:08,851 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:10:09,886 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:10:09,886 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:10:09,887 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:10:10,907 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop
+2022-08-02 10:10:10,907 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:10:10,908 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:10:13,163 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,pid FROM remote_services
+2022-08-02 10:10:13,163 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:10:13,164 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 7
+2022-08-02 10:10:13,164 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:10:13,164 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:10:13,166 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:10:14,185 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:10:14,186 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:10:14,186 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:10:15,229 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:10:15,229 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:10:15,230 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:10:16,256 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:10:16,256 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:10:16,257 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:10:17,270 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:10:17,271 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:10:17,271 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:10:18,324 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:10:18,324 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:10:18,325 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:10:19,322 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:10:19,322 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:10:19,323 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:10:20,350 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop
+2022-08-02 10:10:20,350 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:10:20,351 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:10:22,581 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,pid FROM remote_services
+2022-08-02 10:10:22,581 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:10:22,582 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 7
+2022-08-02 10:10:22,583 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:10:22,583 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:10:22,584 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:10:23,651 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:10:23,652 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:10:23,653 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:10:24,671 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:10:24,671 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:10:24,672 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:10:25,733 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:10:25,733 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:10:25,734 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:10:26,745 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:10:26,745 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:10:26,746 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:10:27,765 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:10:27,765 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:10:27,766 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:10:28,816 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:10:28,817 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:10:28,818 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:10:29,829 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop
+2022-08-02 10:10:29,830 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:10:29,831 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:10:32,062 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,pid FROM remote_services
+2022-08-02 10:10:32,062 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:10:32,063 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 7
+2022-08-02 10:10:32,064 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:10:32,064 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:10:32,065 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:10:33,109 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:10:33,109 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:10:33,110 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:10:34,130 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:10:34,130 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:10:34,131 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:10:35,126 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:10:35,126 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:10:35,127 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:10:36,110 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:10:36,110 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:10:36,111 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:10:37,125 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:10:37,125 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:10:37,126 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:10:38,145 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:10:38,145 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:10:38,146 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:10:39,177 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop
+2022-08-02 10:10:39,177 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:10:39,178 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:10:42,005 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,pid FROM remote_services
+2022-08-02 10:10:42,005 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:10:42,006 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 7
+2022-08-02 10:10:42,006 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:10:42,007 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:10:42,007 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:10:43,000 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:10:43,000 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:10:43,001 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:10:44,010 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:10:44,010 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:10:44,011 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:10:44,988 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:10:44,989 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:10:44,989 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:10:46,019 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:10:46,020 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:10:46,020 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:10:47,057 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:10:47,057 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:10:47,058 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:10:48,065 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:10:48,065 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:10:48,066 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:10:49,118 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop
+2022-08-02 10:10:49,118 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:10:49,119 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:10:51,344 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,pid FROM remote_services
+2022-08-02 10:10:51,344 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:10:51,345 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 7
+2022-08-02 10:10:51,346 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:10:51,346 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:10:51,346 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:10:52,368 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:10:52,368 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:10:52,369 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:10:53,378 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:10:53,378 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:10:53,379 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:10:54,403 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:10:54,403 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:10:54,404 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:10:55,427 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:10:55,427 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:10:55,428 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:10:56,432 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:10:56,433 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:10:56,433 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:10:57,453 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:10:57,454 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:10:57,454 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:10:58,475 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop
+2022-08-02 10:10:58,475 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:10:58,476 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:11:00,774 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,pid FROM remote_services
+2022-08-02 10:11:00,774 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:11:00,775 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 7
+2022-08-02 10:11:00,775 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:11:00,775 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:11:00,776 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:11:02,380 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:11:02,381 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:11:02,382 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:11:03,733 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:11:03,734 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:11:03,734 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:11:05,048 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:11:05,049 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:11:05,049 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:11:06,101 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:11:06,102 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:11:06,103 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:11:07,424 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:11:07,424 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:11:07,424 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:11:09,565 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:11:09,565 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:11:09,566 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:11:10,972 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop
+2022-08-02 10:11:10,972 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:11:10,973 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:11:13,195 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,pid FROM remote_services
+2022-08-02 10:11:13,195 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:11:13,196 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 7
+2022-08-02 10:11:13,196 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:11:13,196 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:11:13,197 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:11:14,439 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:11:14,440 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:11:14,440 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:11:17,042 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:11:17,042 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:11:17,043 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:11:18,101 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:11:18,101 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:11:18,102 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:11:19,202 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:11:19,203 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:11:19,203 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:11:21,591 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:11:21,591 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:11:21,592 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:11:22,638 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:11:22,638 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:11:22,639 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:11:23,657 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop
+2022-08-02 10:11:23,658 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:11:23,658 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:11:25,890 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,pid FROM remote_services
+2022-08-02 10:11:25,890 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:11:25,891 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 7
+2022-08-02 10:11:25,892 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:11:25,892 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:11:25,893 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:11:26,932 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:11:26,932 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:11:26,933 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:11:27,957 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:11:27,957 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:11:27,958 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:11:28,964 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:11:28,964 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:11:28,965 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:11:29,986 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:11:29,986 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:11:29,987 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:11:31,074 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:11:31,075 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:11:31,076 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:11:32,164 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:11:32,165 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:11:32,166 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:11:33,240 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop
+2022-08-02 10:11:33,240 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:11:33,241 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:11:36,007 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,pid FROM remote_services
+2022-08-02 10:11:36,007 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:11:36,007 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 7
+2022-08-02 10:11:36,007 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:11:36,007 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:11:36,008 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:11:37,016 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:11:37,017 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:11:37,017 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:11:38,003 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:11:38,003 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:11:38,004 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:11:39,042 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:11:39,042 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:11:39,043 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:11:40,071 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:11:40,071 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:11:40,072 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:11:41,088 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:11:41,089 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:11:41,089 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:11:42,125 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:11:42,126 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:11:42,127 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:11:43,191 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop
+2022-08-02 10:11:43,191 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:11:43,192 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:11:45,450 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,pid FROM remote_services
+2022-08-02 10:11:45,450 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:11:45,451 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 7
+2022-08-02 10:11:45,451 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:11:45,451 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:11:45,452 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:11:46,489 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:11:46,490 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:11:46,490 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:11:47,485 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:11:47,485 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:11:47,486 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:11:48,508 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:11:48,508 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:11:48,509 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:11:49,593 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:11:49,594 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:11:49,595 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:11:50,706 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:11:50,706 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:11:50,706 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:11:51,780 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:11:51,780 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:11:51,781 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:11:52,954 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop
+2022-08-02 10:11:52,955 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:11:52,955 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:11:55,351 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,pid FROM remote_services
+2022-08-02 10:11:55,351 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:11:55,352 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 7
+2022-08-02 10:11:55,352 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:11:55,352 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:11:55,353 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:11:56,372 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:11:56,372 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:11:56,373 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:11:57,398 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:11:57,398 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:11:57,399 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:11:58,412 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:11:58,413 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:11:58,413 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:11:59,456 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:11:59,456 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:11:59,457 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:12:00,477 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:12:00,478 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:12:00,479 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:12:01,493 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:12:01,494 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:12:01,494 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:12:02,506 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop
+2022-08-02 10:12:02,506 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:12:02,507 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:12:04,737 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,pid FROM remote_services
+2022-08-02 10:12:04,737 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:12:04,738 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 7
+2022-08-02 10:12:04,738 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:12:04,738 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:12:04,739 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:12:05,758 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:12:05,758 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:12:05,759 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:12:06,800 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:12:06,800 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:12:06,801 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:12:07,835 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:12:07,835 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:12:07,835 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:12:08,853 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:12:08,855 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:12:08,856 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:12:09,900 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:12:09,900 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:12:09,901 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:12:10,894 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:12:10,894 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:12:10,894 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:12:11,904 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop
+2022-08-02 10:12:11,904 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:12:11,905 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:12:14,062 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,pid FROM remote_services
+2022-08-02 10:12:14,062 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:12:14,063 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 7
+2022-08-02 10:12:14,063 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:12:14,064 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:12:14,064 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:12:15,085 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:12:15,085 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:12:15,085 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:12:16,131 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:12:16,131 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:12:16,132 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:12:17,141 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:12:17,142 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:12:17,142 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:12:18,137 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:12:18,138 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:12:18,138 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:12:19,141 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:12:19,141 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:12:19,142 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:12:20,133 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:12:20,134 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:12:20,134 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:12:21,132 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop
+2022-08-02 10:12:21,133 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:12:21,133 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:12:24,004 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,pid FROM remote_services
+2022-08-02 10:12:24,004 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:12:24,005 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 7
+2022-08-02 10:12:24,005 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:12:24,006 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:12:24,006 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:12:25,078 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:12:25,078 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:12:25,078 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:12:26,076 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:12:26,077 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:12:26,077 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:12:27,117 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:12:27,117 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:12:27,118 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:12:28,118 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:12:28,119 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:12:28,119 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:12:29,171 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:12:29,172 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:12:29,173 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:12:30,195 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:12:30,195 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:12:30,195 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:12:31,216 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop
+2022-08-02 10:12:31,216 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:12:31,217 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:12:33,375 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,pid FROM remote_services
+2022-08-02 10:12:33,376 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:12:33,376 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 7
+2022-08-02 10:12:33,377 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:12:33,377 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:12:33,377 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:12:34,424 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:12:34,425 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:12:34,425 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:12:35,445 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:12:35,445 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:12:35,445 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:12:36,526 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:12:36,526 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:12:36,527 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:12:37,610 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:12:37,610 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:12:37,611 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:12:38,660 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:12:38,660 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:12:38,661 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:12:39,739 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:12:39,739 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:12:39,740 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:12:40,761 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop
+2022-08-02 10:12:40,761 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:12:40,762 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:12:42,966 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,pid FROM remote_services
+2022-08-02 10:12:42,966 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:12:42,967 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 7
+2022-08-02 10:12:42,967 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:12:42,967 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:12:42,968 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:12:43,959 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:12:43,959 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:12:43,960 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:12:44,996 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:12:44,996 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:12:44,998 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:12:46,013 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:12:46,014 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:12:46,014 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:12:47,046 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:12:47,047 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:12:47,047 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:12:48,074 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:12:48,075 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:12:48,076 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:12:49,129 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:12:49,130 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:12:49,130 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:12:50,187 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop
+2022-08-02 10:12:50,187 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:12:50,188 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:12:52,407 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,pid FROM remote_services
+2022-08-02 10:12:52,407 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:12:52,409 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 7
+2022-08-02 10:12:52,409 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:12:52,409 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:12:52,409 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:12:53,465 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:12:53,465 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:12:53,466 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:12:54,484 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:12:54,484 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:12:54,485 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:12:55,517 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:12:55,517 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:12:55,518 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:12:56,508 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:12:56,508 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:12:56,509 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:12:57,523 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:12:57,523 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:12:57,523 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:12:58,563 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:12:58,564 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:12:58,564 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:12:59,581 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop
+2022-08-02 10:12:59,581 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:12:59,582 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:13:01,803 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,pid FROM remote_services
+2022-08-02 10:13:01,804 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:13:01,804 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 7
+2022-08-02 10:13:01,805 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:13:01,805 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:13:01,805 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:13:02,830 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:13:02,830 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:13:02,831 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:13:03,853 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:13:03,854 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:13:03,855 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:13:04,865 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:13:04,865 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:13:04,866 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:13:05,884 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:13:05,884 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:13:05,885 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:13:06,908 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:13:06,908 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:13:06,909 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:13:07,943 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:13:07,943 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:13:07,944 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:13:08,985 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop
+2022-08-02 10:13:08,986 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:13:08,986 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:13:11,186 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,pid FROM remote_services
+2022-08-02 10:13:11,186 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:13:11,187 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 7
+2022-08-02 10:13:11,187 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:13:11,187 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:13:11,188 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:13:12,207 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:13:12,207 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:13:12,207 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:13:13,218 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:13:13,219 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:13:13,219 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:13:14,270 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:13:14,270 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:13:14,270 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:13:15,318 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:13:15,318 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:13:15,318 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:13:16,373 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:13:16,373 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:13:16,374 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:13:17,398 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:13:17,399 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:13:17,399 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:13:18,410 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop
+2022-08-02 10:13:18,410 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:13:18,411 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:13:21,003 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,pid FROM remote_services
+2022-08-02 10:13:21,004 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:13:21,004 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 7
+2022-08-02 10:13:21,004 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:13:21,005 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:13:21,005 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:13:22,027 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:13:22,027 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:13:22,028 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:13:23,033 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:13:23,033 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:13:23,033 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:13:24,028 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:13:24,028 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:13:24,028 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:13:25,036 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:13:25,037 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:13:25,037 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:13:26,029 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:13:26,029 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:13:26,029 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:13:27,025 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:13:27,026 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:13:27,026 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:13:28,033 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop
+2022-08-02 10:13:28,033 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:13:28,034 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:13:30,255 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,pid FROM remote_services
+2022-08-02 10:13:30,255 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:13:30,256 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 7
+2022-08-02 10:13:30,256 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:13:30,257 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:13:30,257 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:13:31,304 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:13:31,304 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:13:31,305 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:13:32,315 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:13:32,315 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:13:32,316 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:13:33,334 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:13:33,335 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:13:33,335 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:13:34,317 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:13:34,318 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:13:34,318 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:13:35,322 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:13:35,323 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:13:35,324 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:13:36,330 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:13:36,330 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:13:36,331 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:13:37,338 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop
+2022-08-02 10:13:37,338 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:13:37,338 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:13:39,560 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,pid FROM remote_services
+2022-08-02 10:13:39,560 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:13:39,561 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 7
+2022-08-02 10:13:39,561 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:13:39,561 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:13:39,562 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:13:40,560 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:13:40,561 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:13:40,561 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:13:41,609 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:13:41,610 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:13:41,610 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:13:42,624 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:13:42,624 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:13:42,625 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:13:43,625 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:13:43,625 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:13:43,625 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:13:44,659 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:13:44,659 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:13:44,660 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:13:45,661 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:13:45,662 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:13:45,662 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:13:46,669 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop
+2022-08-02 10:13:46,669 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:13:46,670 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:13:48,895 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,pid FROM remote_services
+2022-08-02 10:13:48,896 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:13:48,896 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 7
+2022-08-02 10:13:48,897 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:13:48,897 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:13:48,897 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:13:49,915 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:13:49,915 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:13:49,916 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:13:50,920 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:13:50,920 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:13:50,921 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:13:51,943 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:13:51,943 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:13:51,944 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:13:53,003 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:13:53,003 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:13:53,003 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:13:54,026 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:13:54,026 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:13:54,027 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:13:55,045 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:13:55,045 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:13:55,045 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:13:56,046 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop
+2022-08-02 10:13:56,046 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:13:56,046 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:13:58,287 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,pid FROM remote_services
+2022-08-02 10:13:58,287 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:13:58,288 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 7
+2022-08-02 10:13:58,288 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:13:58,288 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:13:58,289 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:13:59,328 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:13:59,328 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:13:59,329 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:14:00,348 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:14:00,348 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:14:00,349 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:14:01,368 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:14:01,368 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:14:01,369 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:14:02,372 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:14:02,372 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:14:02,373 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:14:03,396 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:14:03,396 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:14:03,397 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:14:04,423 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:14:04,423 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:14:04,424 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:14:05,447 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop
+2022-08-02 10:14:05,447 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:14:05,448 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:14:07,665 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,pid FROM remote_services
+2022-08-02 10:14:07,665 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:14:07,666 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 7
+2022-08-02 10:14:07,666 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:14:07,666 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:14:07,667 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:14:08,706 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:14:08,707 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:14:08,707 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:14:09,721 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:14:09,721 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:14:09,722 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:14:10,725 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:14:10,725 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:14:10,726 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:14:11,732 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:14:11,732 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:14:11,733 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:14:12,766 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:14:12,766 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:14:12,767 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:14:13,803 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:14:13,803 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:14:13,804 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:14:14,822 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop
+2022-08-02 10:14:14,823 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:14:14,823 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:14:17,033 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,pid FROM remote_services
+2022-08-02 10:14:17,033 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:14:17,034 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 7
+2022-08-02 10:14:17,034 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:14:17,035 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:14:17,035 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:14:18,047 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:14:18,047 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:14:18,047 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:14:19,052 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:14:19,052 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:14:19,052 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:14:20,101 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:14:20,101 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:14:20,102 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:14:21,116 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:14:21,116 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:14:21,118 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:14:22,104 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:14:22,104 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:14:22,105 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:14:23,122 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:14:23,123 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:14:23,123 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:14:24,167 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop
+2022-08-02 10:14:24,167 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:14:24,168 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:14:27,005 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,pid FROM remote_services
+2022-08-02 10:14:27,006 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:14:27,006 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 7
+2022-08-02 10:14:27,007 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:14:27,007 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:14:27,007 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:14:27,992 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:14:27,993 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:14:27,993 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:14:28,997 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:14:28,998 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:14:28,998 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:14:30,009 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:14:30,009 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:14:30,009 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:14:31,011 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:14:31,011 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:14:31,013 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:14:32,070 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:14:32,070 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:14:32,071 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:14:33,098 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:14:33,098 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:14:33,098 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:14:34,133 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop
+2022-08-02 10:14:34,133 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:14:34,134 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:14:36,372 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,pid FROM remote_services
+2022-08-02 10:14:36,372 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:14:36,373 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 7
+2022-08-02 10:14:36,373 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:14:36,374 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:14:36,374 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:14:37,418 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:14:37,418 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:14:37,419 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:14:38,437 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:14:38,438 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:14:38,438 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:14:39,461 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:14:39,461 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:14:39,462 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:14:40,452 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:14:40,453 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:14:40,454 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:14:41,455 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:14:41,456 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:14:41,456 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:14:42,463 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:14:42,463 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:14:42,463 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:14:43,475 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop
+2022-08-02 10:14:43,475 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:14:43,476 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:14:45,742 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,pid FROM remote_services
+2022-08-02 10:14:45,742 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:14:45,743 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 7
+2022-08-02 10:14:45,743 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:14:45,743 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:14:45,743 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:14:46,743 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:14:46,743 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:14:46,744 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:14:47,800 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:14:47,800 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:14:47,800 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:14:48,846 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:14:48,847 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:14:48,847 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:14:49,867 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:14:49,868 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:14:49,868 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:14:50,861 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:14:50,861 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:14:50,862 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:14:51,886 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:14:51,887 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:14:51,887 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:14:52,941 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop
+2022-08-02 10:14:52,941 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:14:52,942 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:14:55,216 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,pid FROM remote_services
+2022-08-02 10:14:55,216 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:14:55,217 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 7
+2022-08-02 10:14:55,217 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:14:55,218 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:14:55,218 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:14:56,247 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:14:56,248 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:14:56,248 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:14:57,265 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:14:57,265 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:14:57,266 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:14:58,321 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:14:58,322 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:14:58,323 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:14:59,330 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:14:59,331 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:14:59,331 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:15:00,352 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:15:00,352 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:15:00,353 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:15:01,395 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:15:01,395 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:15:01,395 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:15:02,400 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop
+2022-08-02 10:15:02,400 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:15:02,400 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:15:04,660 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,pid FROM remote_services
+2022-08-02 10:15:04,660 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:15:04,661 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 7
+2022-08-02 10:15:04,661 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:15:04,661 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:15:04,662 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:15:05,702 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:15:05,702 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:15:05,703 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:15:06,700 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:15:06,701 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:15:06,701 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:15:07,737 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:15:07,737 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:15:07,737 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:15:08,764 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:15:08,764 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:15:08,765 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:15:09,788 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:15:09,788 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:15:09,789 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:15:10,815 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:15:10,815 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:15:10,816 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:15:11,873 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop
+2022-08-02 10:15:11,873 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:15:11,874 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:15:14,131 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,pid FROM remote_services
+2022-08-02 10:15:14,131 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:15:14,132 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 7
+2022-08-02 10:15:14,132 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:15:14,133 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:15:14,133 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:15:15,159 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:15:15,160 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:15:15,160 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:15:16,159 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:15:16,159 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:15:16,159 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:15:17,185 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:15:17,185 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:15:17,186 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:15:18,202 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:15:18,202 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:15:18,202 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:15:19,195 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:15:19,195 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:15:19,195 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:15:20,198 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:15:20,198 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:15:20,199 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:15:21,184 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop
+2022-08-02 10:15:21,184 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:15:21,185 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:15:24,001 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,pid FROM remote_services
+2022-08-02 10:15:24,001 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:15:24,002 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 7
+2022-08-02 10:15:24,002 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:15:24,003 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:15:24,003 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:15:25,015 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:15:25,015 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:15:25,016 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:15:26,038 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:15:26,038 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:15:26,039 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:15:27,043 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:15:27,043 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:15:27,044 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:15:28,047 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:15:28,048 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:15:28,048 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:15:29,097 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:15:29,098 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:15:29,098 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:15:30,120 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:15:30,120 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:15:30,120 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:15:31,123 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop
+2022-08-02 10:15:31,123 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:15:31,124 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:15:33,298 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,pid FROM remote_services
+2022-08-02 10:15:33,298 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:15:33,299 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 7
+2022-08-02 10:15:33,299 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:15:33,299 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:15:33,300 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:15:34,329 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:15:34,329 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:15:34,329 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:15:35,365 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:15:35,366 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:15:35,366 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:15:36,585 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:15:36,585 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:15:36,585 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:15:37,655 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:15:37,656 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:15:37,657 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:15:38,745 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:15:38,746 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:15:38,746 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:15:39,824 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:15:39,825 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:15:39,825 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:15:40,943 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop
+2022-08-02 10:15:40,943 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:15:40,943 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:15:43,267 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,pid FROM remote_services
+2022-08-02 10:15:43,267 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:15:43,267 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 7
+2022-08-02 10:15:43,268 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:15:43,268 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:15:43,268 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:15:44,427 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:15:44,428 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:15:44,429 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:15:45,541 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:15:45,542 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:15:45,542 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:15:46,892 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:15:46,893 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:15:46,893 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:15:47,916 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:15:47,916 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:15:47,916 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:15:48,954 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:15:48,954 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:15:48,955 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:15:49,984 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:15:49,984 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:15:49,984 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:15:50,991 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop
+2022-08-02 10:15:50,991 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:15:50,992 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:15:53,207 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,pid FROM remote_services
+2022-08-02 10:15:53,207 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:15:53,208 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 7
+2022-08-02 10:15:53,208 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:15:53,208 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:15:53,208 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:15:54,247 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:15:54,247 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:15:54,248 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:15:55,274 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:15:55,274 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:15:55,275 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:15:56,309 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:15:56,310 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:15:56,310 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:15:57,369 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:15:57,369 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:15:57,369 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:15:58,372 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:15:58,373 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:15:58,373 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:15:59,435 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:15:59,436 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:15:59,436 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:16:00,524 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop
+2022-08-02 10:16:00,525 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:16:00,525 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:16:03,004 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,pid FROM remote_services
+2022-08-02 10:16:03,005 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:16:03,006 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 7
+2022-08-02 10:16:03,006 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:16:03,006 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:16:03,006 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:16:04,037 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:16:04,037 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:16:04,038 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:16:05,088 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:16:05,088 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:16:05,088 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:16:06,086 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:16:06,087 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:16:06,087 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:16:07,145 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:16:07,146 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:16:07,146 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:16:08,138 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:16:08,139 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:16:08,139 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:16:09,146 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:16:09,147 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:16:09,147 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:16:10,170 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop
+2022-08-02 10:16:10,174 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:16:10,175 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:16:12,546 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,pid FROM remote_services
+2022-08-02 10:16:12,546 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:16:12,546 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 7
+2022-08-02 10:16:12,547 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:16:12,547 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:16:12,547 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:16:13,597 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:16:13,597 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:16:13,598 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:16:14,610 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:16:14,610 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:16:14,611 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:16:15,644 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:16:15,644 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:16:15,645 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:16:16,697 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:16:16,698 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:16:16,698 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:16:17,692 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:16:17,692 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:16:17,692 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:16:18,748 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:16:18,749 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:16:18,749 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:16:19,769 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop
+2022-08-02 10:16:19,769 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:16:19,770 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:16:21,987 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,pid FROM remote_services
+2022-08-02 10:16:21,987 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:16:21,988 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 7
+2022-08-02 10:16:21,988 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:16:21,988 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:16:21,988 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:16:23,013 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:16:23,014 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:16:23,015 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:16:24,046 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:16:24,046 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:16:24,047 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:16:25,077 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:16:25,078 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:16:25,078 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:16:26,166 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:16:26,166 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:16:26,166 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:16:27,198 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:16:27,198 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:16:27,199 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:16:28,222 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:16:28,222 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:16:28,223 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:16:29,235 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop
+2022-08-02 10:16:29,235 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:16:29,235 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:16:31,514 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,pid FROM remote_services
+2022-08-02 10:16:31,514 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:16:31,515 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 7
+2022-08-02 10:16:31,515 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:16:31,515 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:16:31,515 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:16:32,542 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:16:32,542 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:16:32,543 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:16:33,557 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:16:33,558 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:16:33,559 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:16:34,574 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:16:34,575 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:16:34,575 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:16:35,628 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:16:35,629 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:16:35,629 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:16:36,632 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:16:36,633 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:16:36,633 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:16:37,650 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:16:37,650 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:16:37,651 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:16:38,692 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop
+2022-08-02 10:16:38,692 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:16:38,693 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:16:40,905 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,pid FROM remote_services
+2022-08-02 10:16:40,905 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:16:40,906 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 7
+2022-08-02 10:16:40,906 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:16:40,906 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:16:40,906 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:16:41,938 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:16:41,938 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:16:41,938 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:16:42,974 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:16:42,974 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:16:42,976 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:16:44,009 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:16:44,010 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:16:44,010 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:16:45,006 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:16:45,006 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:16:45,007 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:16:46,060 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:16:46,060 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:16:46,061 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:16:47,068 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:16:47,069 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:16:47,069 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:16:48,103 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop
+2022-08-02 10:16:48,103 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:16:48,104 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:16:51,007 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,pid FROM remote_services
+2022-08-02 10:16:51,007 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:16:51,007 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 7
+2022-08-02 10:16:51,008 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:16:51,008 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:16:51,008 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:16:52,023 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:16:52,023 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:16:52,024 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:16:53,042 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:16:53,042 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:16:53,043 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:16:54,039 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:16:54,040 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:16:54,040 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:16:55,044 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:16:55,046 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:16:55,046 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:16:56,107 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:16:56,107 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:16:56,108 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:16:57,159 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:16:57,160 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:16:57,160 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:16:58,217 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop
+2022-08-02 10:16:58,217 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:16:58,218 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:17:00,500 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,pid FROM remote_services
+2022-08-02 10:17:00,500 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:17:00,501 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 7
+2022-08-02 10:17:00,501 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:17:00,501 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:17:00,501 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:17:01,513 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:17:01,514 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:17:01,514 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:17:02,499 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:17:02,500 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:17:02,500 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:17:03,536 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:17:03,537 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:17:03,537 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:17:04,590 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:17:04,591 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:17:04,591 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:17:05,623 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:17:05,623 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:17:05,624 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:17:06,781 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:17:06,782 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:17:06,782 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:17:08,065 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop
+2022-08-02 10:17:08,065 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:17:08,066 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:17:10,604 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,pid FROM remote_services
+2022-08-02 10:17:10,604 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:17:10,605 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 7
+2022-08-02 10:17:10,605 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:17:10,605 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:17:10,605 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:17:12,144 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:17:12,145 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:17:12,145 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:17:13,305 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:17:13,307 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:17:13,307 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:17:14,338 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:17:14,338 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:17:14,339 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:17:15,338 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:17:15,339 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:17:15,339 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:17:16,341 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:17:16,341 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:17:16,342 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:17:17,397 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:17:17,398 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:17:17,398 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:17:18,433 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop
+2022-08-02 10:17:18,433 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:17:18,434 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:17:21,003 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,pid FROM remote_services
+2022-08-02 10:17:21,004 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:17:21,005 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 7
+2022-08-02 10:17:21,005 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:17:21,005 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:17:21,006 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:17:22,029 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:17:22,030 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:17:22,030 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:17:23,052 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:17:23,052 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:17:23,052 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:17:24,074 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:17:24,075 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:17:24,075 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:17:25,086 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:17:25,087 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:17:25,087 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:17:26,136 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:17:26,137 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:17:26,137 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:17:27,146 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:17:27,146 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:17:27,147 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:17:28,177 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop
+2022-08-02 10:17:28,177 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:17:28,178 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:17:30,404 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,pid FROM remote_services
+2022-08-02 10:17:30,404 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:17:30,405 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 7
+2022-08-02 10:17:30,406 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:17:30,406 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:17:30,406 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:17:31,441 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:17:31,442 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:17:31,442 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:17:32,470 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:17:32,471 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:17:32,471 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:17:33,482 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:17:33,482 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:17:33,483 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:17:34,517 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:17:34,518 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:17:34,519 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:17:35,507 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:17:35,507 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:17:35,508 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:17:36,614 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:17:36,614 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:17:36,615 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:17:37,660 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop
+2022-08-02 10:17:37,660 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:17:37,660 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:17:39,910 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,pid FROM remote_services
+2022-08-02 10:17:39,911 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:17:39,911 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 7
+2022-08-02 10:17:39,911 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:17:39,912 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:17:39,912 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:17:40,956 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:17:40,957 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:17:40,957 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:17:41,985 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:17:41,986 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:17:41,986 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:17:43,001 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:17:43,001 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:17:43,002 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:17:44,010 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:17:44,010 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:17:44,011 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:17:45,040 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:17:45,041 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:17:45,041 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:17:46,055 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:17:46,056 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:17:46,057 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:17:47,083 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop
+2022-08-02 10:17:47,083 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:17:47,083 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:17:49,295 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,pid FROM remote_services
+2022-08-02 10:17:49,295 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:17:49,296 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 7
+2022-08-02 10:17:49,296 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:17:49,296 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:17:49,297 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:17:50,331 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:17:50,332 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:17:50,332 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:17:51,359 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:17:51,359 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:17:51,360 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:17:52,371 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:17:52,371 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:17:52,371 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:17:53,417 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:17:53,417 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:17:53,418 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:17:54,415 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:17:54,416 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:17:54,416 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:17:55,407 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:17:55,407 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:17:55,408 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:17:56,445 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop
+2022-08-02 10:17:56,445 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:17:56,446 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:17:58,632 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,pid FROM remote_services
+2022-08-02 10:17:58,632 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:17:58,632 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 7
+2022-08-02 10:17:58,633 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:17:58,633 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:17:58,633 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:17:59,643 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:17:59,643 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:17:59,643 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:18:00,665 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:18:00,666 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:18:00,666 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:18:01,705 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:18:01,706 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:18:01,706 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:18:02,741 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:18:02,742 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:18:02,742 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:18:03,755 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:18:03,755 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:18:03,755 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:18:04,797 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:18:04,798 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:18:04,798 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:18:05,829 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop
+2022-08-02 10:18:05,829 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:18:05,830 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:18:08,060 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,pid FROM remote_services
+2022-08-02 10:18:08,060 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:18:08,061 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 7
+2022-08-02 10:18:08,061 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:18:08,061 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:18:08,062 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:18:09,079 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:18:09,080 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:18:09,080 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:18:10,087 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:18:10,088 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:18:10,088 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:18:11,117 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:18:11,117 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:18:11,117 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:18:12,131 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:18:12,131 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:18:12,132 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:18:13,164 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:18:13,165 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:18:13,165 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:18:14,180 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:18:14,180 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:18:14,181 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:18:15,189 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop
+2022-08-02 10:18:15,189 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:18:15,191 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:18:18,011 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,pid FROM remote_services
+2022-08-02 10:18:18,012 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:18:18,012 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 7
+2022-08-02 10:18:18,012 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:18:18,013 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:18:18,013 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:18:19,029 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:18:19,030 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:18:19,030 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:18:20,045 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:18:20,045 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:18:20,046 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:18:21,101 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:18:21,102 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:18:21,103 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:18:22,119 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:18:22,119 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:18:22,120 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:18:23,142 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:18:23,142 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:18:23,143 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:18:24,161 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop WHERE address=?
+2022-08-02 10:18:24,161 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 121.89.201.223(String)
+2022-08-02 10:18:24,162 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1
+2022-08-02 10:18:25,172 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==>  Preparing: SELECT address,port,user,pwd FROM remote_prop
+2022-08-02 10:18:25,174 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- ==> Parameters: 
+2022-08-02 10:18:25,176 DEBUG [scheduling-1] (BaseJdbcLogger.java:137)- <==      Total: 1

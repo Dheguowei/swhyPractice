@@ -1,0 +1,53 @@
+2022-07-25 10:52:51,312 INFO  [restartedMain] (StartupInfoLogger.java:55)- Starting SwhyPracticeApplication using Java 11.0.14 on SK-20211029DMIT with PID 1964 (F:\swhyPractice\target\classes started by Administrator in F:\swhyPractice)
+2022-07-25 10:52:51,413 INFO  [restartedMain] (SpringApplication.java:634)- No active profile set, falling back to 1 default profile: "default"
+2022-07-25 10:52:51,503 INFO  [restartedMain] (DeferredLog.java:255)- Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-07-25 10:52:51,504 INFO  [restartedMain] (DeferredLog.java:255)- For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-07-25 10:52:52,613 INFO  [restartedMain] (RepositoryConfigurationDelegate.java:262)- Multiple Spring Data modules found, entering strict repository configuration mode
+2022-07-25 10:52:52,619 INFO  [restartedMain] (RepositoryConfigurationDelegate.java:132)- Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-07-25 10:52:52,650 INFO  [restartedMain] (RepositoryConfigurationDelegate.java:201)- Finished Spring Data repository scanning in 10 ms. Found 0 Redis repository interfaces.
+2022-07-25 10:52:53,362 INFO  [restartedMain] (TomcatWebServer.java:108)- Tomcat initialized with port(s): 8081 (http)
+2022-07-25 10:52:53,370 INFO  [restartedMain] (DirectJDKLog.java:173)- Initializing ProtocolHandler ["http-nio-8081"]
+2022-07-25 10:52:53,371 INFO  [restartedMain] (DirectJDKLog.java:173)- Starting service [Tomcat]
+2022-07-25 10:52:53,371 INFO  [restartedMain] (DirectJDKLog.java:173)- Starting Servlet engine: [Apache Tomcat/9.0.64]
+2022-07-25 10:52:53,447 INFO  [restartedMain] (DirectJDKLog.java:173)- Initializing Spring embedded WebApplicationContext
+2022-07-25 10:52:53,448 INFO  [restartedMain] (ServletWebServerApplicationContext.java:292)- Root WebApplicationContext: initialization completed in 1942 ms
+2022-07-25 10:52:53,763 INFO  [restartedMain] (SelectByMultiIdMethod.java:47)- entity com.swhy.swhypractice.pojo.RemoteProp not contain MppMultiId anno
+2022-07-25 10:52:53,764 INFO  [restartedMain] (UpdateByMultiIdMethod.java:45)- entity com.swhy.swhypractice.pojo.RemoteProp not contain MppMultiId anno
+2022-07-25 10:52:53,764 INFO  [restartedMain] (DeleteByMultiIdMethod.java:45)- entity com.swhy.swhypractice.pojo.RemoteProp not contain MppMultiId anno
+2022-07-25 10:52:55,474 WARN  [restartedMain] (TableInfoHelper.java:342)- Can not find table primary key in Class: "com.swhy.swhypractice.pojo.RemoteServices".
+2022-07-25 10:52:55,474 WARN  [restartedMain] (DefaultSqlInjector.java:56)- class com.swhy.swhypractice.pojo.RemoteServices ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2022-07-25 10:52:56,037 INFO  [restartedMain] (PropertySourcedRequestMappingHandlerMapping.java:69)- Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-07-25 10:52:56,050 ERROR  [restartedMain] (PlusConfig.java:62)- mpp.entityBasePath is null skip scan result map
+2022-07-25 10:52:56,161 INFO  [restartedMain] (OptionalLiveReloadServer.java:58)- LiveReload server is running on port 35729
+2022-07-25 10:52:56,181 INFO  [restartedMain] (WelcomePageHandlerMapping.java:53)- Adding welcome page: class path resource [static/index.html]
+2022-07-25 10:52:56,367 INFO  [restartedMain] (DirectJDKLog.java:173)- Starting ProtocolHandler ["http-nio-8081"]
+2022-07-25 10:52:56,383 INFO  [restartedMain] (TomcatWebServer.java:220)- Tomcat started on port(s): 8081 (http) with context path ''
+2022-07-25 10:52:56,384 INFO  [restartedMain] (DocumentationPluginsBootstrapper.java:160)- Context refreshed
+2022-07-25 10:52:56,397 INFO  [restartedMain] (DocumentationPluginsBootstrapper.java:163)- Found 1 custom documentation plugin(s)
+2022-07-25 10:52:56,419 INFO  [restartedMain] (ApiListingReferenceScanner.java:41)- Scanning for api listing references
+2022-07-25 10:52:56,572 INFO  [restartedMain] (StartupInfoLogger.java:61)- Started SwhyPracticeApplication in 5.906 seconds (JVM running for 9.716)
+2022-07-25 10:52:57,030 INFO  [scheduling-1] (HikariDataSource.java:110)- HikariPool-1 - Starting...
+2022-07-25 10:52:57,181 INFO  [scheduling-1] (HikariDataSource.java:123)- HikariPool-1 - Start completed.
+2022-07-25 10:57:05,392 INFO  [http-nio-8081-exec-1] (DirectJDKLog.java:173)- Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-25 10:57:05,393 INFO  [http-nio-8081-exec-1] (FrameworkServlet.java:525)- Initializing Servlet 'dispatcherServlet'
+2022-07-25 10:57:05,394 INFO  [http-nio-8081-exec-1] (FrameworkServlet.java:547)- Completed initialization in 1 ms
+2022-07-25 10:57:27,489 INFO  [http-nio-8081-exec-2] (MyController.java:106)- 查询进程返回结果：root      4029     1  0 Jul12 ?        00:27:05 redis-server *:6379
+2022-07-25 10:57:27,533 INFO  [http-nio-8081-exec-2] (MyController.java:112)- remote_service保存结果:true
+2022-07-25 10:57:27,539 INFO  [http-nio-8081-exec-2] (MyController.java:114)- remote_prop保存结果:true
+2022-07-25 10:57:34,033 INFO  [http-nio-8081-exec-4] (WebSocket.java:39)- 【websocket消息】有新的连接，总数为:1
+2022-07-25 10:57:34,048 INFO  [http-nio-8081-exec-5] (WebSocket.java:61)- 【websocket消息】收到客户端消息:{"连接":"成功"}
+2022-07-25 11:12:52,301 INFO  [http-nio-8081-exec-9] (MyController.java:106)- 查询进程返回结果：dbus       522     1  0 Jul12 ?        00:03:17 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation
+2022-07-25 11:12:52,344 INFO  [http-nio-8081-exec-9] (MyController.java:112)- remote_service保存结果:true
+2022-07-25 11:12:52,347 INFO  [http-nio-8081-exec-9] (MyController.java:114)- remote_prop保存结果:true
+2022-07-25 11:19:17,040 INFO  [http-nio-8081-exec-6] (WebSocket.java:51)- 【websocket消息】连接断开，总数为:0
+2022-07-25 11:19:18,231 INFO  [http-nio-8081-exec-7] (WebSocket.java:39)- 【websocket消息】有新的连接，总数为:1
+2022-07-25 11:19:18,328 INFO  [http-nio-8081-exec-8] (WebSocket.java:61)- 【websocket消息】收到客户端消息:{"连接":"成功"}
+2022-07-25 11:20:32,285 INFO  [http-nio-8081-exec-10] (WebSocket.java:51)- 【websocket消息】连接断开，总数为:0
+2022-07-25 11:21:33,992 INFO  [http-nio-8081-exec-10] (WebSocket.java:39)- 【websocket消息】有新的连接，总数为:1
+2022-07-25 11:21:34,075 INFO  [http-nio-8081-exec-9] (WebSocket.java:61)- 【websocket消息】收到客户端消息:{"连接":"成功"}
+2022-07-25 11:21:39,019 INFO  [http-nio-8081-exec-3] (WebSocket.java:51)- 【websocket消息】连接断开，总数为:0
+2022-07-25 11:21:39,871 INFO  [http-nio-8081-exec-2] (WebSocket.java:39)- 【websocket消息】有新的连接，总数为:1
+2022-07-25 11:21:39,973 INFO  [http-nio-8081-exec-4] (WebSocket.java:61)- 【websocket消息】收到客户端消息:{"连接":"成功"}
+2022-07-25 12:36:41,867 INFO  [SpringApplicationShutdownHook] (WebSocket.java:51)- 【websocket消息】连接断开，总数为:0
+2022-07-25 12:36:41,892 INFO  [SpringApplicationShutdownHook] (HikariDataSource.java:350)- HikariPool-1 - Shutdown initiated...
+2022-07-25 12:36:41,895 INFO  [SpringApplicationShutdownHook] (HikariDataSource.java:352)- HikariPool-1 - Shutdown completed.

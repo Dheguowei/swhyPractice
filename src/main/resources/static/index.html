@@ -1,0 +1,137 @@
+
+<!DOCTYPE html>
+<html lang="en" xmlns:v-bind="http://www.w3.org/1999/xhtml" xmlns:v-model="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>实验</title>
+        <meta charset="utf-8">
+        <script src="./vue.js"></script>
+	</head>
+	<body>
+        
+        <h1>你好</h1>
+        <div id="app">
+            {{message}}
+            <!--
+                插值语法，用于在标签里面插入
+            -->
+        </div>
+        <div id="command">
+            <h2>指令语法</h2>
+            <!-- 
+                Vue 中的事件修饰符：
+                1.prevent：阻止默认事件
+                2.stop：阻止事件冒泡
+                3.once：事件只触发一次
+             -->
+            <a :href="url.toUpperCase()" @click.prevent="showInfo3">点我跳转</a>
+            <div class = "demo1" @click="showInfo3">
+                <a :href="url.toUpperCase()" @click.stop="showInfo3">点我跳转</a>
+            </div>
+            <a :href="url.toUpperCase()" @click.once="showInfo3">点我跳转</a>
+            <!-- <a :href="url.toUpperCase()" @click.prevent="showInfo3">点我跳转</a> -->
+        </div>
+        <div id="sbind">
+            
+            单向数据绑定：<input type="text" v-bind:value="name"><br/>
+           <!--普通写法 -->
+            双向数据绑定：<input type="text" v-model:value="age"><br/>
+            <!-- 简写 -->
+            双向数据绑定：<input type="text" v-model="age">
+
+
+        </div>
+        <div id="school">
+            <h2>学校名称:{{school.name}}</h2>
+            <h2>学校地址:{{school.address}}</h2>
+            <!-- <h2>测试:{{$emit}}</h2> -->
+            
+        </div>
+        <div id="button1">
+            <button @click = "showInfo">点我提示信息(不传参)</button>
+            <button @click = "showInfo2(66)">点我提示信息2(传参）</button>
+            <!-- <button v-on:click = "showInfo">点我提示信息</button> -->
+        </div>
+        
+        
+        <script>
+            // el的两种写法。
+            var app = new Vue({
+                // el:"#app",
+                data:{
+                    message:"hello message"
+                }
+            })
+            console.log(app)
+            app.$mount('#app')
+
+            // data 的两种写法
+            new Vue({
+                el:"#command",
+                data:function() {
+                    return{
+                        url:"https://www.baidu.com",
+                    }
+                },
+                methods:{
+                    showInfo3(){
+                        alert('你好 啊啊啊啊啊')
+                    },
+                }
+            })
+            new Vue({
+                el:'#sbind',
+                data:{
+                    name:'gw',
+                    age:'18',
+                }
+            })
+            new Vue({
+                el:"#school",
+                data:{
+                    school:{
+                        name:'南京大学',
+                        address:'南京鼓楼'
+                    }
+                }
+            })
+            let add = 'nj'
+            let person  = {
+                name:'gg',
+            }
+            Object.defineProperty(person,'age',{
+                value:18,
+                enumerable:true,//可以被枚举
+                writable:true,//可以被重写
+                configurable:true,//控制属性是否可以被删除，true可以
+                
+            })
+            Object.defineProperty(person,'addre',{
+                //enumerable:true,//可以被枚举
+                //writable:true,//可以被重写
+                //configurable:true,//控制属性是否可以被删除，true可以
+                get(){
+                    return add
+                },
+                set(value){
+                    add = value
+                }
+            })
+            new Vue({
+                el:'#button1',
+                data:{},
+                methods:{
+                    showInfo(evevt){
+                        alert('你好')
+                    },
+                    showInfo2(number){
+                        alert(number)
+                    },
+                    showInfo3(){
+                        alert('你好 啊啊啊啊啊')
+                    }
+                }
+            })
+            console.log(person)
+        </script>
+	</body>
+</html>

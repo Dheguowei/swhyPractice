@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "sleepInterval",
+      "type": "java.lang.String",
+      "description": "Description for sleepInterval."
+  }
+] }
